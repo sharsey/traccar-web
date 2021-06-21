@@ -1,3 +1,4 @@
+
 .view-color-green {
     background-color: rgba(77, 250, 144, 0.3);
 }
@@ -12,18 +13,34 @@
     opacity: 0.5;
 }
 
+.x-body {
+    background-image: url(https://cdn.glitch.com/3bf41616-295c-4248-a432-22966a21726f%2Fbackimage.png?v=1610420317676) !important;
+    background-repeat: no-repeat !important;
+    background-color: #ABADB5 !important;
+    background-size: cover !important;
+}
+.x-window-default {
+    border-style: none !important;
+    background-color: #fff "important;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.09) !important;
+}
 .toolbar-header-style {
-    background-color: #d42626 !important;
+    background-color: #ABADB5 !important;
 }
 .x-panel-header-default {
-    background-color: #d42626 !important;
+    background-color: #ABADB5 !important;
 }
 .x-btn-default-small {
-    background-color: #d42626 !important;
+    background-color: #ABADB5 !important;
 }
 body.x-border-layout-ct, div.x-border-layout-ct {
-    background-color: #bbbbbb !important;
+    background-color: #ABADB5 !important;
 }
+
+
+
+
+
 
 .x-fieldset {
     overflow: visible !important; /* workaround for Safari issue */
